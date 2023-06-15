@@ -1,0 +1,2 @@
+# Guess_words--game--with--python
+ This project simulates a simple word guessing game where the user tries to guess a specific word. The computer selects a random word and checks the user's guesses. Each correct letter guessed in the correct position is indicated by the letter 'O', while correct letters guessed in the wrong position are indicated by the letter 'X'. The user is expected to guess the word within a certain number of attempts.
